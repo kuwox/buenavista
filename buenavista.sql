@@ -15,7 +15,6 @@ CREATE TABLE customers (
   package VARCHAR(255),
   price VARCHAR(255),
   device VARCHAR(255),
-  registration_date DATETIME DEFAULT NULL,
   cell_phone VARCHAR(255),
   address VARCHAR(255),
   mac_address VARCHAR(255),
