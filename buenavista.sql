@@ -1,4 +1,4 @@
-CREATE TABLE users (
+CREATE TABLE IF NOT EXISTS  users (
   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   username VARCHAR(50),
   password VARCHAR(255),
@@ -7,7 +7,7 @@ CREATE TABLE users (
   modified DATETIME DEFAULT NULL
 );
 
-CREATE TABLE customers (
+CREATE TABLE IF NOT EXISTS  customers (
   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(50),
   lastname VARCHAR(50),
@@ -23,11 +23,11 @@ CREATE TABLE customers (
   modified DATETIME DEFAULT NULL
 );
 
-CREATE TABLE invoices (
+CREATE TABLE IF NOT EXISTS invoices (
   id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-  customers_id INT(11) NOT NULL,
-  invoice_no INT(11) NOT NULL,
-  invoice_date DATETIME DEFAULT NOT NULL,
+  customers_id INT(11),
+  invoice_no INT(11),
+  invoice_date DATETIME DEFAULT NULL,
   amount decimal(6,2) NOT NULL,
-  status_id tinyint(1) NOT NULL,
-)
+  status_id VARCHAR(7)
+);
