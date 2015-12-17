@@ -29,5 +29,7 @@ CREATE TABLE IF NOT EXISTS invoices (
   invoice_no INT(11),
   invoice_date DATETIME DEFAULT NULL,
   amount decimal(6,2) NOT NULL,
+  pay_method VARCHAR(25),
+  pay_reference VARCHAR(255),
   status_id VARCHAR(7)
 );
