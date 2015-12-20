@@ -12,6 +12,7 @@ CREATE TABLE IF NOT EXISTS  customers (
   name VARCHAR(50),
   lastname VARCHAR(50),
   identification VARCHAR(13),
+  mail VARCHAR(80),
   package VARCHAR(255),
   price VARCHAR(255),
   device VARCHAR(255),
