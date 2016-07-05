@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CakePHP
 
 [![Latest Stable Version](https://poser.pugx.org/cakephp/cakephp/v/stable.svg)](https://packagist.org/packages/cakephp/cakephp)
@@ -48,3 +49,8 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 [CONTRIBUTING.md](CONTRIBUTING.md) - Quick pointers for contributing to the CakePHP project
 
 [CookBook "Contributing" Section (2.x)](http://book.cakephp.org/2.0/en/contributing.html) [(3.0)](http://book.cakephp.org/3.0/en/contributing.html) - Version-specific details about contributing to the project
+=======
+# buenavista v 0.1
+Pequeño Sistema para el control de Pagos de un WISP.
+Diseñado con el Framework CakePHP. trabaja con base de datos MySQL.
+>>>>>>> 55874cc9c6b1be367c557b281c76b15bf383cb94
