@@ -1,0 +1,2013 @@
+2015-12-18 18:42:32 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:10 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:11 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:11 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:11 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:11 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:11 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:12 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:12 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-18 18:48:12 Error: [MissingControllerException] Controller class CustomersController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomersController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-20 15:22:08 Error: [MissingViewException] View file "Customers/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Customers/index.ctp',
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/buenavista/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest))
+#4 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-20 15:22:12 Error: [MissingControllerException] Controller class CustomerController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomerController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customer
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-20 15:22:19 Error: [MissingViewException] View file "Customers/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Customers/index.ctp',
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/buenavista/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest))
+#4 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-20 15:22:31 Error: [MissingViewException] View file "Customers/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Customers/index.ctp',
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/buenavista/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest))
+#4 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-20 15:36:41 Error: [MissingControllerException] Controller class CController could not be found.
+Exception Attributes: array (
+  'class' => 'CController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/c
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-20 15:43:50 Error: Fatal Error (4): syntax error, unexpected ''mail'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/Model/Customer.php, line 16]
+2015-12-20 15:43:50 Error: [FatalErrorException] syntax error, unexpected ''mail'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/customers/
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-20 15:44:11 Error: Fatal Error (4): syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/Model/Customer.php, line 16]
+2015-12-20 15:44:11 Error: [FatalErrorException] syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/customers/
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-20 15:44:11 Error: Fatal Error (4): syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/Model/Customer.php, line 16]
+2015-12-20 15:44:11 Error: [FatalErrorException] syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/customers/
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-20 15:44:11 Error: Fatal Error (4): syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/Model/Customer.php, line 16]
+2015-12-20 15:44:11 Error: [FatalErrorException] syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/customers/
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-20 15:44:12 Error: Fatal Error (4): syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/Model/Customer.php, line 16]
+2015-12-20 15:44:12 Error: [FatalErrorException] syntax error, unexpected ''email'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/customers/
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-25 20:27:43 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/user
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-25 20:33:55 Error: [MissingControllerException] Controller class InvocieController could not be found.
+Exception Attributes: array (
+  'class' => 'InvocieController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/invocie
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-25 20:34:02 Error: [MissingControllerException] Controller class InvoiceController could not be found.
+Exception Attributes: array (
+  'class' => 'InvoiceController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/invoice
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-25 20:34:06 Error: [MissingTableException] Table statuses for model Status was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'statuses',
+  'class' => 'Status',
+  'ds' => 'default',
+)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Model.php(3653): Model->setSource('statuses')
+#1 /var/www/buenavista/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(2529): Model->schema()
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1753): DboSource->fields(Object(AppModel), 'Status', '')
+#4 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1105): DboSource->generateAssociationQuery(Object(Invoice), Object(AppModel), 'belongsTo', 'Status', Array, Array, false)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#6 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#7 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#9 [internal function]: InvoicesController->index()
+#10 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#13 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-12-25 20:35:07 Error: [MissingTableException] Table statuses for model Status was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'statuses',
+  'class' => 'Status',
+  'ds' => 'default',
+)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Model.php(3653): Model->setSource('statuses')
+#1 /var/www/buenavista/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(2529): Model->schema()
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1753): DboSource->fields(Object(AppModel), 'Status', '')
+#4 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1105): DboSource->generateAssociationQuery(Object(Invoice), Object(AppModel), 'belongsTo', 'Status', Array, Array, false)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#6 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#7 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#9 [internal function]: InvoicesController->index()
+#10 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#13 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2015-12-25 20:36:46 Error: [MissingViewException] View file "Invoices/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Invoices/index.ctp',
+)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /var/www/buenavista/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#4 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-12-25 20:37:15 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 60]
+2015-12-25 20:37:15 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 60)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 60, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 60, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-25 20:38:07 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 60]
+2015-12-25 20:38:07 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 60)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 60, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 60, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:01:34 Error: [MissingControllerException] Controller class InvoiceController could not be found.
+Exception Attributes: array (
+  'class' => 'InvoiceController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/invoice
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-12-28 16:24:59 Error: Fatal Error (4): syntax error, unexpected ')', expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 36]
+2015-12-28 16:24:59 Error: [FatalErrorException] syntax error, unexpected ')', expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:26:30 Error: Fatal Error (4): syntax error, unexpected ')', expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 36]
+2015-12-28 16:26:30 Error: [FatalErrorException] syntax error, unexpected ')', expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:27:22 Error: Fatal Error (4): syntax error, unexpected ')', expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 36]
+2015-12-28 16:27:22 Error: [FatalErrorException] syntax error, unexpected ')', expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:28:50 Error: Fatal Error (4): syntax error, unexpected ')', expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 36]
+2015-12-28 16:28:50 Error: [FatalErrorException] syntax error, unexpected ')', expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 36, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:31:16 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in [/var/www/buenavista/app/Model/Customer.php, line 32]
+2015-12-28 16:31:16 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:31:17 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in [/var/www/buenavista/app/Model/Customer.php, line 32]
+2015-12-28 16:31:17 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:31:17 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in [/var/www/buenavista/app/Model/Customer.php, line 32]
+2015-12-28 16:31:17 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:31:17 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in [/var/www/buenavista/app/Model/Customer.php, line 32]
+2015-12-28 16:31:17 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:31:17 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in [/var/www/buenavista/app/Model/Customer.php, line 32]
+2015-12-28 16:31:17 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 32)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 32, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:32:46 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:33:00 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:34:37 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:35:22 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:35:24 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:08 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:09 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:22 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:23 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:36:23 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'false' in 'order clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2015-12-28 16:40:49 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:40:49 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:43:23 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:43:23 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:44:02 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:44:02 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:44:07 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:44:07 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:44:31 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:44:31 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:44:42 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:44:42 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:44:43 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:44:43 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 16:47:47 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2015-12-28 16:47:47 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/2
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-12-28 17:05:59 Error: Fatal Error (4): syntax error, unexpected 'endif' (T_ENDIF) in [/var/www/buenavista/app/View/Customers/view.ctp, line 85]
+2015-12-28 17:05:59 Error: [FatalErrorException] syntax error, unexpected 'endif' (T_ENDIF)
+Request URL: /buenavista/customers/view/3
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 85)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 85, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 85, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-01 19:09:15 Error: [MissingControllerException] Controller class CustomerController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomerController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customer
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-01 20:24:01 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 88]
+2016-01-01 20:24:01 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/edit/3
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 88)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 88, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 10:59:00 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 10:59:00 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 10:59:05 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 10:59:05 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 10:59:19 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 10:59:19 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 10:59:20 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 10:59:20 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 10:59:20 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 10:59:20 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:07:12 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-02 11:07:12 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:07:42 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 11:07:42 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:07:42 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 11:07:42 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:08:09 Error: Fatal Error (4): syntax error, unexpected ',' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-02 11:08:09 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:08:34 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-02 11:08:34 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:09:04 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-02 11:09:04 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:09:05 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-02 11:09:05 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:09:05 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-02 11:09:05 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:09:05 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-02 11:09:05 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:18:18 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 21]
+2016-01-02 11:18:18 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 21, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 21, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:18:49 Error: Fatal Error (4): syntax error, unexpected 'empty' (T_EMPTY), expecting ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 9]
+2016-01-02 11:18:49 Error: [FatalErrorException] syntax error, unexpected 'empty' (T_EMPTY), expecting ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 9, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 9, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:19:13 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 16]
+2016-01-02 11:19:13 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 11:22:42 Error: Fatal Error (4): syntax error, unexpected 'array' (T_ARRAY) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 21]
+2016-01-02 11:22:42 Error: [FatalErrorException] syntax error, unexpected 'array' (T_ARRAY)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 21)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 21, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 21, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:34 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:34 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:35 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:35 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:35 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:35 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:35 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:35 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:35 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:35 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:35 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:35 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:07:42 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:07:42 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:08:01 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:08:01 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:08:18 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:08:18 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:10 Error: Fatal Error (4): syntax error, unexpected 'list' (T_LIST) in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:10 Error: [FatalErrorException] syntax error, unexpected 'list' (T_LIST)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:11 Error: Fatal Error (4): syntax error, unexpected 'list' (T_LIST) in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:11 Error: [FatalErrorException] syntax error, unexpected 'list' (T_LIST)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:11 Error: Fatal Error (4): syntax error, unexpected 'list' (T_LIST) in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:11 Error: [FatalErrorException] syntax error, unexpected 'list' (T_LIST)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:12 Error: Fatal Error (4): syntax error, unexpected 'list' (T_LIST) in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:12 Error: [FatalErrorException] syntax error, unexpected 'list' (T_LIST)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:12 Error: Fatal Error (4): syntax error, unexpected 'list' (T_LIST) in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:12 Error: [FatalErrorException] syntax error, unexpected 'list' (T_LIST)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:22 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:22 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:23 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:23 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:23 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:23 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:12:23 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:12:23 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:13:22 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:13:22 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:13:48 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:13:48 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:13:49 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:13:49 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:13:49 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:13:49 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:13:49 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:13:49 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:13:49 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 13:13:49 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:20 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:20 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:21 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:21 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:15:31 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:15:31 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:16:05 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:16:05 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:16:06 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:16:06 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:16:06 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:16:06 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 13:16:06 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 13:16:06 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:55:52 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:55:52 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:56:03 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:56:03 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:56:03 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:56:03 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:56:03 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:56:03 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:56:04 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:56:04 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:56:04 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:56:04 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 14:56:04 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 19]
+2016-01-02 14:56:04 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 15:05:36 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 15:05:36 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 15:05:53 Error: Fatal Error (1): Call to a member function find() on a non-object in [/var/www/buenavista/app/Controller/InvoicesController.php, line 61]
+2016-01-02 15:05:53 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/var/www/buenav...', 61)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/var/www/buenav...', 61, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 15:11:12 Error: Fatal Error (4): syntax error, unexpected ''list'' (T_CONSTANT_ENCAPSED_STRING) in [/var/www/buenavista/app/Controller/InvoicesController.php, line 51]
+2016-01-02 15:11:12 Error: [FatalErrorException] syntax error, unexpected ''list'' (T_CONSTANT_ENCAPSED_STRING)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 51, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 16:02:05 Error: Fatal Error (4): syntax error, unexpected '?>', expecting ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 24]
+2016-01-02 16:02:05 Error: [FatalErrorException] syntax error, unexpected '?>', expecting ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 24)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 24, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 24, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 16:33:35 Error: [MissingTableException] Table ids for model Customer was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'ids',
+  'class' => 'Customer',
+  'ds' => 'default',
+)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Model.php(3653): Model->setSource('ids')
+#1 /var/www/buenavista/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(2529): Model->schema()
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1753): DboSource->fields(Object(AppModel), 'Customer', '')
+#4 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1105): DboSource->generateAssociationQuery(Object(Invoice), Object(AppModel), 'belongsTo', 'Customer', Array, Array, false)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#6 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#7 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#9 [internal function]: InvoicesController->index()
+#10 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#13 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-01-02 16:33:57 Error: [MissingTableException] Table $ids for model Customer was not found in datasource default.
+Exception Attributes: array (
+  'table' => '$ids',
+  'class' => 'Customer',
+  'ds' => 'default',
+)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Model.php(3653): Model->setSource('$ids')
+#1 /var/www/buenavista/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(2529): Model->schema()
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1753): DboSource->fields(Object(AppModel), 'Customer', '')
+#4 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1105): DboSource->generateAssociationQuery(Object(Invoice), Object(AppModel), 'belongsTo', 'Customer', Array, Array, false)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#6 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#7 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#9 [internal function]: InvoicesController->index()
+#10 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#13 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-01-02 16:34:08 Error: [MissingTableException] Table customer_ids for model Customer was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'customer_ids',
+  'class' => 'Customer',
+  'ds' => 'default',
+)
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Model.php(3653): Model->setSource('customer_ids')
+#1 /var/www/buenavista/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(2529): Model->schema()
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1753): DboSource->fields(Object(AppModel), 'Customer', '')
+#4 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1105): DboSource->generateAssociationQuery(Object(Invoice), Object(AppModel), 'belongsTo', 'Customer', Array, Array, false)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#6 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#7 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#9 [internal function]: InvoicesController->index()
+#10 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#13 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-01-02 21:09:29 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Invoice.customer' in 'on clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-01-02 21:10:16 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Invoice.customer' in 'field list'
+Request URL: /buenavista/customers/view/1
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1456): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1290): DboSource->_fetchHasMany(Object(Customer), 'SELECT `Invoice...', Array)
+#5 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1149): DboSource->queryAssociation(Object(Customer), Object(Invoice), 'hasMany', 'Invoice', Array, Array, true, Array, 0, Array)
+#6 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Customer), Array)
+#7 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('first', Array)
+#8 /var/www/buenavista/app/Controller/CustomersController.php(42): Model->find('first', Array)
+#9 [internal function]: CustomersController->view('1')
+#10 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest))
+#13 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-01-02 21:22:03 Error: Fatal Error (4): syntax error, unexpected ')', expecting function (T_FUNCTION) in [/var/www/buenavista/app/Model/Invoice.php, line 22]
+2016-01-02 21:22:03 Error: [FatalErrorException] syntax error, unexpected ')', expecting function (T_FUNCTION)
+Request URL: /buenavista/invoices/edit/4
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 22)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 22, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 22, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:31:36 Error: Fatal Error (4): syntax error, unexpected ''Efectivo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 16]
+2016-01-02 21:31:36 Error: [FatalErrorException] syntax error, unexpected ''Efectivo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 16, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:35:06 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 26]
+2016-01-02 21:35:06 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 26, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 26, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:35:14 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:35:14 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:35:21 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:35:21 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:35:38 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:35:38 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:08 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:08 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:08 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:08 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:08 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:08 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:12 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:12 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:12 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:12 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:12 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:12 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:12 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:12 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:13 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:13 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:23 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:23 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:24 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:24 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:24 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:24 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:27 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:27 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:36:46 Error: Fatal Error (4): syntax error, unexpected ')', expecting ',' or ';' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:36:46 Error: [FatalErrorException] syntax error, unexpected ')', expecting ',' or ';'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:00 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:00 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:01 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:01 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:01 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:01 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:21 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:21 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:25 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:25 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:25 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:25 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:26 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:26 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:28 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:28 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:28 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:28 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:28 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 19]
+2016-01-02 21:37:28 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 19, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-02 21:37:45 Error: Fatal Error (4): syntax error, unexpected ''Efectivo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 17]
+2016-01-02 21:37:45 Error: [FatalErrorException] syntax error, unexpected ''Efectivo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 17, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 17, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 18:47:16 Error: [MissingControllerException] Controller class InvoiceController could not be found.
+Exception Attributes: array (
+  'class' => 'InvoiceController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/invoice
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-03 22:18:51 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Invoice.name' in 'on clause'
+Request URL: /buenavista/invoices
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(461): PDOStatement->execute(Array)
+#1 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(427): DboSource->_execute('SELECT `Invoice...', Array)
+#2 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(669): DboSource->execute('SELECT `Invoice...', Array, Array)
+#3 /var/www/buenavista/lib/Cake/Model/Datasource/DboSource.php(1118): DboSource->fetchAll('SELECT `Invoice...', false)
+#4 /var/www/buenavista/lib/Cake/Model/Model.php(3031): DboSource->read(Object(Invoice), Array)
+#5 /var/www/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#6 /var/www/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /var/www/buenavista/app/Controller/InvoicesController.php(27): PaginatorComponent->paginate()
+#8 [internal function]: InvoicesController->index()
+#9 /var/www/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(InvoicesController), Array)
+#10 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /var/www/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(InvoicesController), Object(CakeRequest))
+#12 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2016-01-03 22:20:13 Error: Fatal Error (4): syntax error, unexpected ',' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 8]
+2016-01-03 22:20:13 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 8, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 8, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:20:18 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 10]
+2016-01-03 22:20:18 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:20:19 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 10]
+2016-01-03 22:20:19 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:20:19 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 10]
+2016-01-03 22:20:19 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:20:19 Error: Fatal Error (4): syntax error, unexpected ')' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 10]
+2016-01-03 22:20:19 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 10, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:20:47 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 8]
+2016-01-03 22:20:47 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 8, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 8, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:24:38 Error: Fatal Error (4): syntax error, unexpected '$customers' (T_VARIABLE) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 6]
+2016-01-03 22:24:38 Error: [FatalErrorException] syntax error, unexpected '$customers' (T_VARIABLE)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 6, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:29:10 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [/var/www/buenavista/app/View/Invoices/add.ctp, line 11]
+2016-01-03 22:29:10 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 11, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 11, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-03 22:31:08 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/var/www/buenavista/app/View/Invoices/add.ctp, line 7]
+2016-01-03 22:31:08 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /buenavista/invoices/add
+Stack Trace:
+#0 /var/www/buenavista/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/buenav...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#2 /var/www/buenavista/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/buenav...', 7, Array)
+#3 /var/www/buenavista/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-01-04 16:57:11 Error: [MissingControllerException] Controller class CController could not be found.
+Exception Attributes: array (
+  'class' => 'CController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/c
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:11 Error: [MissingControllerException] Controller class CuController could not be found.
+Exception Attributes: array (
+  'class' => 'CuController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/cu
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:11 Error: [MissingControllerException] Controller class CustController could not be found.
+Exception Attributes: array (
+  'class' => 'CustController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/cust
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:11 Error: [MissingControllerException] Controller class CusController could not be found.
+Exception Attributes: array (
+  'class' => 'CusController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/cus
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:11 Error: [MissingControllerException] Controller class CustomController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/custom
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:11 Error: [MissingControllerException] Controller class CustoController could not be found.
+Exception Attributes: array (
+  'class' => 'CustoController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/custo
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:12 Error: [MissingControllerException] Controller class CustomrController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomrController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customr
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:12 Error: [MissingControllerException] Controller class CustomrrController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomrrController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customrr
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:13 Error: [MissingControllerException] Controller class CustomeController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomeController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/custome
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-01-04 16:57:14 Error: [MissingControllerException] Controller class CustomerController could not be found.
+Exception Attributes: array (
+  'class' => 'CustomerController',
+  'plugin' => NULL,
+)
+Request URL: /buenavista/customer
+Stack Trace:
+#0 /var/www/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-02-27 11:28:58 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[28000] [1045] Access denied for user \'root\'@\'localhost\' (using password: YES)',
+  'enabled' => true,
+)
+Request URL: /buenavista/customers
+Stack Trace:
+#0 /var/www/html/buenavista/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /var/www/html/buenavista/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /var/www/html/buenavista/lib/Cake/Model/Model.php(3626): ConnectionManager::getDataSource('default')
+#3 /var/www/html/buenavista/lib/Cake/Model/Model.php(1155): Model->setDataSource('default')
+#4 /var/www/html/buenavista/lib/Cake/Model/Model.php(3653): Model->setSource('customers')
+#5 /var/www/html/buenavista/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#6 /var/www/html/buenavista/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#7 /var/www/html/buenavista/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#8 /var/www/html/buenavista/app/Controller/CustomersController.php(27): PaginatorComponent->paginate()
+#9 [internal function]: CustomersController->index()
+#10 /var/www/html/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#11 /var/www/html/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#12 /var/www/html/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest))
+#13 /var/www/html/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2016-07-01 13:55:57 Error: [NotFoundException] Invalid customer
+Request URL: /buenavista/customers/view
+Stack Trace:
+#0 [internal function]: CustomersController->view()
+#1 /var/www/html/buenavista/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /var/www/html/buenavista/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /var/www/html/buenavista/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest))
+#4 /var/www/html/buenavista/app/webroot/index.php(115): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
