@@ -67,5 +67,6 @@
 		<li><?php echo $this->Html->link(__('New Customer'), array('action' => 'add')); ?></li>
 		<li><?php echo $this->Html->link(__('New Invoice'), array('controller' => 'invoices', 'action' => 'add')); ?></li>
 		<li><?php echo $this->Html->link(__('List Invoices'), array('controller' => 'invoices', 'action' => 'index')); ?></li>
+		<li><?php echo $this->Html->link(__('Logout'), array('controller' => 'users', 'action' => 'logout')); ?></li>
 	</ul>
 </div>
