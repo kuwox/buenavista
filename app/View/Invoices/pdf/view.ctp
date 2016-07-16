@@ -8,9 +8,9 @@
 		</dd>
 		<dt><?php echo __('Customers'); ?></dt>
 		<dd>
-			<?php echo $this->Html->link($invoice['Customer']['name'], array('controller' => 'customers', 'action' => 'view', $invoice['Customer']['id'])); ?> 
+			 <?php echo h($invoice['Customer']['name']); ?> 
 
-
+			<!--<?php echo h($invoice['Customer']['name'], array('controller' => 'customers', 'action' => 'view', $invoice['Customer']['id'])); ?>-->
 			&nbsp;
 		</dd>
 		<!--  <dt><?php echo __('Invoice No'); ?></dt>
