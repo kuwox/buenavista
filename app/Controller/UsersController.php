@@ -3,9 +3,12 @@ App::uses('AppController', 'Controller');
 
 class UsersController extends AppController {
 
+
+public $components = array('Paginator', 'Flash', 'Session', 'RequestHandler');
+
     public function beforeFilter() {
         parent::beforeFilter();
-        $this->Auth->allow('logout');
+        $this->Auth->allow('search','logout');
     }
 
     public function login() {
@@ -32,6 +35,13 @@ class UsersController extends AppController {
             throw new NotFoundException(__('Invalid user'));
         }
         $this->set('user', $this->User->findById($id));
+
+        $options = array('conditions' => array('User.' . $this->User->primaryKey => $id));
+        $this->pdfConfig = array('download' => true,'filename' => 'cliente_' . $id .'.pdf');
+        $this->set('user', $this->User->find('first', $options));
+        $this->set('invoices', $this->Paginator->paginate());
+
+
     }
 
     public function add() {
@@ -84,4 +94,7 @@ class UsersController extends AppController {
         return $this->redirect(array('action' => 'index'));
     }
 
+    public function search() {
+        
+    }
 }
