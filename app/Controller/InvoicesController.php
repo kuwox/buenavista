@@ -40,7 +40,7 @@ class InvoicesController extends AppController {
 			throw new NotFoundException(__('Invalid invoice'));
 		}
 		$options = array('conditions' => array('Invoice.' . $this->Invoice->primaryKey => $id));
-		$this->pdfConfig = array('download' => true,'filename' => 'cliente_' . $id .'.pdf');
+		$this->pdfConfig = array('download' => true,'filename' => 'voucher_' . $id .'.pdf');
 		$this->set('invoice', $this->Invoice->find('first', $options));
 		$this->set('invoices', $this->Paginator->paginate());
 
