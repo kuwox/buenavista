@@ -61,6 +61,6 @@
 		<li><?php echo $this->Html->link(__('New Invoice'), array('action' => 'add')); ?> </li>
 		<li><?php echo $this->Html->link(__('List Customers'), array('controller' => 'customers', 'action' => 'index')); ?> </li>
 		<li><?php echo $this->Html->link(__('New Customers'), array('controller' => 'customers', 'action' => 'add')); ?> </li>
-		<li><?php echo $this->Html->link(__('Descargar Recibo'), array('action' => 'view', $invoice['Invoice']['id'], 'ext' => 'pdf')); ?></li>
+		<li><?php echo $this->Html->link(__('Donwload voucher'), array('action' => 'view', $invoice['Invoice']['id'], 'ext' => 'pdf')); ?></li>
 	</ul>
 </div>
