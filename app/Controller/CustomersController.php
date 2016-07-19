@@ -16,6 +16,10 @@ class CustomersController extends AppController {
  * @var array
  */
 	public $components = array('Paginator', 'Flash', 'Session', 'RequestHandler');
+	 public function beforeFilter() {
+        parent::beforeFilter();
+        $this->Auth->allow('search','logout');
+    }
 
 /**
  * index method
@@ -104,5 +108,15 @@ class CustomersController extends AppController {
 			$this->Flash->error(__('The customer could not be deleted. Please, try again.'));
 		}
 		return $this->redirect(array('action' => 'index'));
+	}
+
+	public function search($id = null) {
+		if (!$this->Customer->exists($id)) {
+			throw new NotFoundException(__('Invalid customer'));
+		}
+		$options = array('conditions' => array('Customer.' . $this->Customer->primaryKey => $id));
+		$this->pdfConfig = array('download' => true,'filename' => 'cliente_' . $id .'.pdf');
+		$this->set('customer', $this->Customer->find('first', $options));
+		$this->set('invoices', $this->Paginator->paginate());
 	}
 }
