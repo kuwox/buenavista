@@ -28,7 +28,8 @@ $cakeDescription = __d('cake_dev', 'INTERGUARO: Gestión para Clientes');
 	<?php
 		echo $this->Html->meta('icon');
 
-		echo $this->Html->css('cake.generic');
+		echo $this->Html->css(array('jquery-ui.min', 'cake.generic'));
+		echo $this->Html->script(array('jquery-ui.min'));
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
