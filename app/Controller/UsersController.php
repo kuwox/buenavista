@@ -8,7 +8,7 @@ public $components = array('Paginator', 'Flash', 'Session', 'RequestHandler');
 
     public function beforeFilter() {
         parent::beforeFilter();
-        $this->Auth->allow('search','logout');
+        $this->Auth->allow('logout');
     }
 
     public function login() {
@@ -94,7 +94,4 @@ public $components = array('Paginator', 'Flash', 'Session', 'RequestHandler');
         return $this->redirect(array('action' => 'index'));
     }
 
-    public function search() {
-        
-    }
 }
