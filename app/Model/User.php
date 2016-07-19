@@ -34,4 +34,16 @@ class User extends AppModel {
         }
         return true;
     }
+
+    public $hasMany = array(
+        'Invoice' => array(
+            'className' => 'Invoice',
+            'foreignKey' => 'customer_id',
+            'conditions' => '',
+            'order' => 'Invoice.id DESC',
+            'dependent' => false
+
+            )
+        );
+    
 }
